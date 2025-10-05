@@ -1,0 +1,23 @@
+# GoPhish / general
+gophish
+gophish.db
+gophish.db-shm
+gophish.db-wal
+gophish_admin.crt
+gophish_admin.key
+example.crt
+example.key
+config.json
+*.pem
+*.key
+*.crt
+*.db
+*.log
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
+*.swp
+node_modules/
+dist/
